@@ -1,24 +1,34 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [👋 Welcome to Blep](README.md)
 
-## Overview
+## Blep for you
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [🫂 For communities](blep-for-you/for-communities.md)
+* [🎉 For event organizers](blep-for-you/for-event-organizers.md)
+* [✨ For influencers](blep-for-you/for-influencers.md)
+* [👫 For boys and girls](blep-for-you/for-boys-and-girls.md)
 
-## Product Guides
+## Features
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [🫂 Manage communities](features/manage-communities.md)
+* [🤝 Organize meets](features/organize-meets.md)
 
-## Fundamentals
+## Behind the scene
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [🛠 System architecture](behind-the-scene/system-architecture/README.md)
+  * [Authentication & Profile](behind-the-scene/system-architecture/authentication-and-profile.md)
+  * [Notifications service](behind-the-scene/system-architecture/notifications-service.md)
+  * [Feeds](behind-the-scene/system-architecture/feeds.md)
+  * [Indexer](behind-the-scene/system-architecture/indexer.md)
+* [📄 Contracts](behind-the-scene/contracts/README.md)
+  * [BlepRouter](behind-the-scene/contracts/bleprouter.md)
+  * [Token](behind-the-scene/contracts/token.md)
+  * [BlepsManager](behind-the-scene/contracts/blepsmanager.md)
+  * [CommunitiesManager](behind-the-scene/contracts/communitiesmanager.md)
+  * [UserRegistry](behind-the-scene/contracts/userregistry.md)
 
-## Use Cases
+## 🔗 Links
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Github](https://github.com/get-blep/)
+* [X (Twitter)](https://x.com/getblep)
