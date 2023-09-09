@@ -32,3 +32,7 @@
 
 * [Github](https://github.com/get-blep/)
 * [X (Twitter)](https://x.com/getblep)
+
+***
+
+* [⁉ FAQ](faq.md)
