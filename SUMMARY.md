@@ -12,8 +12,15 @@
 
 ## Features
 
-* [🫂 Manage communities](features/manage-communities.md)
-* [🤝 Organize meets](features/organize-meets.md)
+* [🫂 Communities](features/communities/README.md)
+  * [Create](features/communities/create.md)
+  * [Manage](features/communities/manage.md)
+  * [Join](features/communities/join.md)
+  * [Share](features/communities/share.md)
+* [🤝 Bleps](features/bleps/README.md)
+  * [Create](features/bleps/create.md)
+  * [Join](features/bleps/join.md)
+  * [Share](features/bleps/share.md)
 
 ## Behind the scene
 
