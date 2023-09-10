@@ -17,4 +17,4 @@ Community builders are in full control. Manage your community effortlessly, cust
    * **Block Members:** When necessary, you can block members who violate community guidelines or engage in inappropriate behavior.
    * **Remove Members:** For more serious cases, you have the ability to remove members from the community entirely, ensuring the community remains a welcoming space.
 
-Blep puts the power of community management in your hands, enabling you to shape and nurture your community according to your vision and objectives. With these straightforward steps, you can effortlessly customize, moderate, and grow your community with ease."
+Blep puts the power of community management in your hands, enabling you to shape and nurture your community according to your vision and objectives. With these straightforward steps, you can effortlessly customize, moderate, and grow your community with ease.

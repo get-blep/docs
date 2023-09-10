@@ -6,7 +6,7 @@ description: Blep is the best choice for fostering vibrant and thriving communit
 
 ## **Empowering Community Managers**
 
-**Blep** stands as the unrivaled platform for fostering and extending the reach of your communities. With Blep at your disposal, community managers gain access to a robust set of tools that streamline the process of scaling and overseeing their communities, regardless of their location.
+Blep stands as the unrivaled platform for fostering and extending the reach of your communities. With Blep at your disposal, community managers gain access to a robust set of tools that streamline the process of scaling and overseeing their communities, regardless of their location.
 
 **Seamless Scaling and Management:** Blep understands the unique challenges that community managers face when striving to grow their communities. That's why we've developed a comprehensive suite of features to make community management effortless and efficient. Whether you're nurturing a blossoming group or overseeing a thriving community, Blep has you covered.
 

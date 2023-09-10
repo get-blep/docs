@@ -24,7 +24,7 @@ layout:
 
 ## Overview
 
-Blep is a revolutionary social media application designed to foster genuine connections among individuals who share common interests. With XYZ, users have the power to create and join communities of like-minded people. These communities serve as hubs for organizing and participating in real-life events, encouraging meaningful in-person interactions rather than relying solely on digital connections.
+Blep is a revolutionary social media application designed to foster genuine connections among individuals who share common interests. With Blep, users have the power to create and join communities of like-minded people. These communities serve as hubs for organizing and participating in real-life events, encouraging meaningful in-person interactions rather than relying solely on digital connections.
 
 With Blep, users can:
 

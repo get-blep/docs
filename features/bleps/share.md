@@ -14,4 +14,4 @@ Just like communities, sharing Bleps is a fantastic way to connect with others a
    * **Copy Joining Link:** Copy the exclusive joining link to your clipboard, allowing you to easily share it via messaging apps, emails, or any other communication channel.
    * **Social Share Features:** Blep seamlessly integrates with popular social platforms like Instagram, WhatsApp, Telegram, and more. Use these features to share your Blep with your existing network and beyond.
 
-Sharing Bleps goes beyond merely promoting an event; it's about creating connections, building anticipation, and inviting others to be part of a memorable experience. Just like the magic of a Blep meetup, the power of sharing can help your Blep grow and flourish."
+Sharing Bleps goes beyond merely promoting an event; it's about creating connections, building anticipation, and inviting others to be part of a memorable experience. Just like the magic of a Blep meetup, the power of sharing can help your Blep grow and flourish.

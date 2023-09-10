@@ -13,4 +13,4 @@ Blep is more than just a platform; it's a vibrant ecosystem designed for everyon
 * **Shared Interests and Beyond:** Connect with people who share your passions and interests, or venture into new communities and create your own.
 * **Endless Possibilities:** Blep doesn't stop at pre-defined use cases. Users are encouraged to explore their creativity, organize real-life meetups, and network with like-minded individuals, forging connections that go beyond the digital realm.
 
-Blep is where diverse voices come together, where communities thrive, and where people of all backgrounds and interests find their space to connect, learn, and grow."
+Blep is where diverse voices come together, where communities thrive, and where people of all backgrounds and interests find their space to connect, learn, and grow.

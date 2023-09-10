@@ -1,6 +1,6 @@
 ---
 description: >-
-  XYZ: Your centralized hub for seamless communication and engagement in the
+  Blep: Your centralized hub for seamless communication and engagement in the
   world of education.
 ---
 
