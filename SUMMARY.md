@@ -4,10 +4,11 @@
 
 ## Blep for you
 
+* [🏫 For educational institutions](blep-for-you/for-educational-institutions.md)
 * [🫂 For communities](blep-for-you/for-communities.md)
-* [🎉 For event organizers](blep-for-you/for-event-organizers.md)
-* [✨ For influencers](blep-for-you/for-influencers.md)
-* [👫 For boys and girls](blep-for-you/for-boys-and-girls.md)
+* [🎉 For organizers](blep-for-you/for-organizers.md)
+* [✨ For Youtubers, Influencers and more](blep-for-you/for-youtubers-influencers-and-more.md)
+* [😎 For everyone](blep-for-you/for-everyone.md)
 
 ## Features
 
