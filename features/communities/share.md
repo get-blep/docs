@@ -8,7 +8,7 @@ By sharing communities, Blep users facilitate a network effect, where communitie
 
 Sharing your community is a straightforward process. Simply navigate to the community page and click on the 'Invite Friends' button.
 
-**Diverse Sharing Options:**
+### **Diverse Sharing Options**
 
 Upon clicking 'Invite Friends,' you'll be directed to a share screen that offers multiple options for sharing:
 

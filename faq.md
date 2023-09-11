@@ -1,3 +1,7 @@
+---
+description: Accio Answers
+---
+
 # ⁉ FAQ
 
 
@@ -5,8 +9,6 @@
 ## Is Blep available on Web?
 
 No, Blep is only available as mobile application on both AppStore(iOS) and PlayStore(Android).
-
-
 
 ### Does Blep require blockchain or Web3 knowledge to get started?
 
