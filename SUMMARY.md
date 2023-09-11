@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Blep](README.md)
+* [🚀 Our Mission](our-mission.md)
 
 ## Blep for you
 
