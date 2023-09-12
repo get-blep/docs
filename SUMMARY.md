@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Welcome to Blep](README.md)
+* [Overview](overview.md)
 * [🚀 Our Mission](our-mission.md)
 
 ## Blep for you
@@ -26,7 +27,7 @@
 ## Behind the scene
 
 * [🛠 System architecture](behind-the-scene/system-architecture/README.md)
-  * [Authentication & Profile](behind-the-scene/system-architecture/authentication-and-profile.md)
+  * [User Onboarding & Authentication Module](behind-the-scene/system-architecture/user-onboarding-and-authentication-module.md)
   * [Notifications service](behind-the-scene/system-architecture/notifications-service.md)
   * [Feeds](behind-the-scene/system-architecture/feeds.md)
   * [Indexer](behind-the-scene/system-architecture/indexer.md)
