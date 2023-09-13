@@ -4,7 +4,7 @@ description: Your Portal to Exceptional In-Person Gatherings
 
 # 🤝 Bleps
 
-At Blep, we acknowledge that every in-real-life (IRL) meetup or networking session holds its own distinct and memorable charm. This is precisely why we've introduced 'Bleps,' where each gathering is imbued with a touch of enchantment.
+**Much like our platform, we affectionately refer to the small-scale activities and events within Blep as "Bleps" as well.**
 
 ### Craft Your Bespoke Meetup
 

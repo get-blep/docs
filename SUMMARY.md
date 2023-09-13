@@ -26,7 +26,7 @@
 ## Behind the scene
 
 * [🛠 System architecture](behind-the-scene/system-architecture/README.md)
-  * [User Onboarding & Authentication Module](behind-the-scene/system-architecture/user-onboarding-and-authentication-module.md)
+  * [User Onboarding & Authentication](behind-the-scene/system-architecture/user-onboarding-and-authentication.md)
   * [Notifications service](behind-the-scene/system-architecture/notifications-service.md)
   * [Feeds](behind-the-scene/system-architecture/feeds.md)
   * [Indexer](behind-the-scene/system-architecture/indexer.md)
