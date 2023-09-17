@@ -28,7 +28,7 @@
 * [🛠 System architecture](behind-the-scene/system-architecture/README.md)
   * [User Onboarding & Authentication](behind-the-scene/system-architecture/user-onboarding-and-authentication.md)
   * [Notifications](behind-the-scene/system-architecture/notifications.md)
-  * [Indexer](behind-the-scene/system-architecture/indexer.md)
+  * [Indexer Service](behind-the-scene/system-architecture/indexer-service.md)
   * [Feeds](behind-the-scene/system-architecture/feeds.md)
 * [📄 Contracts](behind-the-scene/contracts/README.md)
   * [BlepRouter](behind-the-scene/contracts/bleprouter.md)
