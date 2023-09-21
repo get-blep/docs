@@ -1,5 +1,5 @@
 ---
-description: Complete architecture of Blep...
+description: Complete architecture of Blep
 ---
 
 # 🛠 System architecture

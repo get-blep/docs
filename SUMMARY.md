@@ -30,12 +30,7 @@
   * [Notifications](behind-the-scene/system-architecture/notifications.md)
   * [Indexer Service](behind-the-scene/system-architecture/indexer-service.md)
   * [Feeds](behind-the-scene/system-architecture/feeds.md)
-* [📄 Contracts](behind-the-scene/contracts/README.md)
-  * [BlepRouter](behind-the-scene/contracts/bleprouter.md)
-  * [Token](behind-the-scene/contracts/token.md)
-  * [BlepsManager](behind-the-scene/contracts/blepsmanager.md)
-  * [CommunitiesManager](behind-the-scene/contracts/communitiesmanager.md)
-  * [UserRegistry](behind-the-scene/contracts/userregistry.md)
+* [📄 Contracts](behind-the-scene/contracts.md)
 
 ## 🔗 Links
 

@@ -15,7 +15,7 @@ When a new user decides to join Blep, the process is designed to be user-friendl
 3. **On-Chain Registration**: Once the user's information is authenticated, it is encrypted and relayed to the blockchain, specifically to the Blep Registry smart contract. This action registers the user within the Blep ecosystem.
 4. **Creating a Wallet**: To facilitate future interactions within the Web3 environment, a wallet is generated for the user. Importantly, this process is designed to be discreet and seamlessly integrated, resembling the onboarding experience of a typical Web2 app. This wallet will later serve the user for NFT / Token holdings and various Web3 actions within the app.
 
-\[Insert a detailed diagram here illustrating the onboarding process]
+\[Insert a detailed diag
 
 **Existing User Login**
 
